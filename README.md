@@ -19,7 +19,7 @@
             display: inline-block;
         }
         h1 {
-            color: #333;
+            color: #331;
         }
         a {
             display: inline-block;
@@ -37,10 +37,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>Your Name</h1>
-        <p>College: Your College Name</p>
+        <h1>CHOUDHARY</h1>
+        <p>College: IIT DH</p>
         <p>Branch: Electronics and Communication Engineering</p>
-        <a href="https://www.instagram.com/your_instagram_id" target="_blank">Follow me on Instagram</a>
+        <a href="https://www.instagram.com/r4o_VS" target="_blank">Follow me on Instagram</a>
     </div>
 </body>
 </html>
